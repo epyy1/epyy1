@@ -1,4 +1,5 @@
 ## Hi there 👋
+https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&color=black
 
 <!--
 **epyy1/epyy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
