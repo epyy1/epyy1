@@ -11,7 +11,7 @@ If you want to contact me
 </a>
 
 <a href="https://t.me/Zplyn" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/sobb.sob-black?logo=telegram&label=telegram">
+<img alt="Static Badge" src="https://img.shields.io/badge/zplyn-black?logo=telegram&label=telegram">
 </a>
 
 
