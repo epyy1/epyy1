@@ -1,6 +1,5 @@
 Hi my name is Yousef 
 
-My skills... 
 
 <img alt="Static Badge" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoSize=20&color=black"> <img alt="Static Badge" src="https://img.shields.io/badge/Html-black?style=for-the-badge&logo=html5&logoSize=20"> <img alt="Static Badge" src="https://img.shields.io/badge/Css-black?style=for-the-badge&logo=css&logoSize=20"> <img alt="Static Badge" src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs&logoSize=20"><img alt="Static Badge" src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoSize=20"><img alt="Static Badge" src="https://img.shields.io/badge/mongodbl-black?style=for-the-badge&logo=mongodb&logoSize=20">
 
